@@ -23,5 +23,16 @@ _Contact me at [mail](mailto:tejarahul618@gmail.com) for more information._
   </tr>
  </table>
 
+<table>
+  <tr>
+    <td align="center">Cirlce</td>
+    <td align="center">Rectangle</td>
+  </tr>
+  <tr> 
+    <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/synthetic_image_0.jpg" width=100 height=100 ></td>
+    <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/synthetic_image_2.jpg" width=100 height=100 ></td>
+  </tr>
+ </table>
+
 This dataset of images are then used for supervised classification using pretrained models acheiving an accuracy of 99%.
 Please look into the Project report for full details.
