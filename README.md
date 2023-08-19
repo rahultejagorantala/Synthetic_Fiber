@@ -39,4 +39,5 @@ Please look into the Project report for full details.
     <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/synthetic_image_2.jpg" width=200 height=200 ></td>
   </tr>
  </table>
+ Rectangles and Cirlces with different textures as above are also created and also trained with pretrained models to check the accuracy.
 
