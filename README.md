@@ -1,12 +1,13 @@
 # Assessment of Cotton Fiber Maturity using Holographic Images
  
 Problem: Establishing a Baseline for Cotton Fiber Classification Amidst Ambiguities in Ground Truth Labels.
+
 Solution: Generating synthetic fiber images that closely resemble holographic cotton fiber images, granting us precise control over fiber structure and image fiber count. Subsequently, employing pre-trained models to classify these images, thereby gauging the upper limits of achievable performance.
 
 _Contact me at [mail](mailto:tejarahul618@gmail.com) for more information._
 
 
-# Example Holographic Images of the Cotton Fibers
+# Example Synthetic Fiber Images 
 <table>
   <tr>
     <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/GIF's/052622DAIJA1-6R2.gif" width=250 height=250 ></td>
