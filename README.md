@@ -23,13 +23,12 @@ _Contact me at [mail](mailto:tejarahul618@gmail.com) for more information._
   </tr>
  </table>
 
-<table>
 
  
 This dataset of images are then used for supervised classification using pretrained models acheiving an accuracy of 99%.
 Please look into the Project report for full details.
 
-
+<table>
   <tr>
     <td align="center">Cirlce</td>
     <td align="center">Rectangle</td>
