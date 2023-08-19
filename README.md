@@ -10,10 +10,10 @@ _Contact me at [mail](mailto:tejarahul618@gmail.com) for more information._
 # Example Synthetic Fiber Images 
 <table>
   <tr>
-    <td align="center">Image 1</td>
-    <td align="center">Image 2</td>
-    <td align="center">Image 3</td>
-    <td align="center">Image 4</td>
+    <td align="center">Texture Image 1</td>
+    <td align="center">Texture Image 1 BW</td>
+    <td align="center">Texture Image 2</td>
+    <td align="center">Texture Image 2 BW</td>
   </tr>
   <tr> 
     <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/image_8.jpg" width=100 height=100 ></td>
