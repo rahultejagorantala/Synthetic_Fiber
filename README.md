@@ -1,4 +1,4 @@
-# Assessment of Cotton Fiber Maturity using Holographic Images
+# Establishing a Baseline for Cotton Fiber Classification
  
 Problem: Establishing a Baseline for Cotton Fiber Classification Amidst Ambiguities in Ground Truth Labels.
 
@@ -10,8 +10,8 @@ _Contact me at [mail](mailto:tejarahul618@gmail.com) for more information._
 # Example Synthetic Fiber Images 
 <table>
   <tr>
-    <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/GIF's/052622DAIJA1-6R2.gif" width=250 height=250 ></td>
-    <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/GIF's/071522K1-1R8.gif" width=250 height=250 ></td>
+    <td><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/image_8.jpg" width=100 height=100 ></td>
+    <td><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/image_12.jpg" width=100 height=100 ></td>
   </tr>
  </table>
 These two Images above belong to cotton fibers with different levels of maturity. But visually they cannot be distinguished.
