@@ -9,13 +9,20 @@ _Contact me at [mail](mailto:tejarahul618@gmail.com) for more information._
 
 # Example Synthetic Fiber Images 
 <table>
+  <tr>
+    <td align="center">Image 1</td>
+    <td align="center">Image 2</td>
+    <td align="center">Image 3</td>
+    <td align="center">Image 4</td>
+  </tr>
   <tr> 
-    <td><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/image_8.jpg" width=100 height=100 ></td>
-    <td><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/image_8-BW.jpg" width=100 height=100 ></td>
-    <td><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/image_12.jpg" width=100 height=100 ></td>
-    <td><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/image_12-BW.jpg" width=100 height=100 ></td>
+    <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/image_8.jpg" width=100 height=100 ></td>
+    <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/image_8-BW.jpg" width=100 height=100 ></td>
+    <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/image_12.jpg" width=100 height=100 ></td>
+    <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/image_12-BW.jpg" width=100 height=100 ></td>
   </tr>
  </table>
+
 These two Images above belong to cotton fibers with different levels of maturity. But visually they cannot be distinguished.
 
 This is a Major problem to solve in cotton fiber industry. Correct classification of cotton fibers according to their maturity can repalce the existing 
