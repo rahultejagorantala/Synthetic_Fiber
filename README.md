@@ -29,8 +29,8 @@ _Contact me at [mail](mailto:tejarahul618@gmail.com) for more information._
     <td align="center">Rectangle</td>
   </tr>
   <tr> 
-    <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/synthetic_image_0.jpg" width=100 height=100 ></td>
-    <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/synthetic_image_2.jpg" width=100 height=100 ></td>
+    <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/synthetic_image_0.jpg" width=200 height=200 ></td>
+    <td align="center"><img src="https://github.com/rahultejagorantala/Synthetic_Fiber/blob/main/Images/synthetic_image_2.jpg" width=200 height=200 ></td>
   </tr>
  </table>
 
